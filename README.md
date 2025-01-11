@@ -68,11 +68,11 @@
 1. Убедитесь, что у вас установлен Go (версии 1.17 и выше).
 2. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/to-do-list.git
+   git clone https://github.com/yourusername/todo-api-go.git
    ```
 3. Перейдите в директорию проекта:
    ```bash
-   cd to-do-list
+   cd todo-api-go
    ```
 4. Установите зависимости и запустите сервер:
    ```bash
